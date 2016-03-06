@@ -1,0 +1,10 @@
+body{
+	background:url(school.jpg) no-repeat;
+	background-size:cover; 
+}
+
+.reg{
+	width: 125px;
+	border:2px solid #FBF9FF;
+	border-radius:10px; 
+}
